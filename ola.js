@@ -30,3 +30,5 @@ letraGrande("Lucas");
 let nome = "Lucas"
 console.log(nome.length);
 console.log(nome[4]);
+
+//Ola
